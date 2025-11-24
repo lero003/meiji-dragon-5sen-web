@@ -1,0 +1,7 @@
+name = "meiji-dragon-5sen-web"
+compatibility_date = "2025-11-24"
+
+# Static assets configuration
+[assets]
+directory = "./dist"
+binding = "ASSETS"
